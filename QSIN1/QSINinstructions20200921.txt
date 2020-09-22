@@ -1,0 +1,14 @@
+﻿In this test, you will hear a unrelated sentences spoken by a woman. Your task is to listen to each and type whatever you think the woman said. There will be three sets of six sentences. During each set, the sentences will become more difficult to understand, because the voices in the back ground will become louder.
+
+How many times will each sentence be played? Once only.
+
+How long do you have to type your response? Take the time you need.
+
+Should you guess? Please listen carefully, and type whatever you think the woman said. If you only understood a few words or parts of words, just type them in the order you saw them. If you are uncertain, give your estimate. Even part of a word is okay. 
+
+What about spelling and punctuation? Use Standard English spelling.  Don’t use casual spellings such as “n-i-t-e” for “night.” Use contractions such as “I’ll” if that’s what was said. Otherwise type “I will.” You don’t need to use capital letters or punctuation such as question mark, comma or period. Don’t use extra spaces, dots, or dashes.
+
+Can you change your answer? You can make changes by using the backspace. But after you hit ENTER, you cannot return to that sentence.
+
+After each sentence, hitting ENTER will take you to the next sentence. Please push ENTER when you are ready to hear the first sentence.
+
